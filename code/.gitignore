@@ -1,0 +1,14 @@
+# Unneeded local files
+run*
+nohup*
+figure*.*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py

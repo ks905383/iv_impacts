@@ -1,0 +1,9 @@
+dir_name,dir_path
+obs,/dx01/kschwarz/climate_raw/
+mod,/dx01/kschwarz/climate_raw/
+proc,/dx01/kschwarz/climate_proc/
+impact,/dx01/kschwarz/impact_uncert/impact_proj/
+aux,/dx01/kschwarz/impact_uncert/aux_data/
+geo,/dx01/kschwarz/impact_uncert/geo_data/
+pop,/dx01/kschwarz/impact_uncert/pop_data/
+figs,/home/kschwarz/projects/iv_impacts/figures/
